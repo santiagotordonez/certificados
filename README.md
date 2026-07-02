@@ -8,3 +8,4 @@ Este repositorio contiene certificados de cursos realizados.
 |---------|-------------|-------------|
 | Power BI | Coderhouse | [Ver certificado](./Certificado_Power_BI.png) |
 | n8n Automation | Coderhouse | [Ver certificado](./Certificado_n8n.pdf) |
+| Inglés | Cambridge | [Ver certificado](./Cambrigde_Advanced_Exam.pdf) |
