@@ -6,5 +6,5 @@ Este repositorio contiene certificados de cursos realizados.
 
 | Curso | Institución | Certificado |
 |---------|-------------|-------------|
-| Power BI | Coderhouse | [Ver certificado](./Certificado_Power_BI.pdf) |
-| n8n Automation | Coderhouse | [Ver certificado](./Certificado_n8n.png) |
+| Power BI | Coderhouse | [Ver certificado](./Certificado_Power_BI.png) |
+| n8n Automation | Coderhouse | [Ver certificado](./Certificado_n8n.pdf) |
